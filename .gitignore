@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+.env.*
+
+# Virtual environments
+venv/
+myenv/
+.venv/
+
+# ChromaDB
+policy_db/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+
+# Model weights
+models/*.keras
+models/**/*.safetensors

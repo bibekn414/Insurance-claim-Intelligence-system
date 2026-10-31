@@ -1,0 +1,13 @@
+tensorflow
+transformers
+torch
+pandas
+numpy
+pillow
+python-dotenv
+google-generativeai
+chromadb
+sentence-transformers
+langchain
+langchain-community
+pypdf
