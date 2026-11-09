@@ -8,7 +8,7 @@ Insurance Claim Intelligence System.
 from pathlib import Path
 
 import numpy as np
-import tensorflow as tf
+#import tensorflow as tf
 from PIL import Image
 import torch
 
@@ -35,6 +35,7 @@ import os
 cnn_model = None
 if os.path.exists(CNN_MODEL_PATH):
     try:
+        import tensorflow as tf
         print("Loading CNN Model...")
         cnn_model = tf.keras.models.load_model(CNN_MODEL_PATH, compile=False)
         print("CNN Loaded")

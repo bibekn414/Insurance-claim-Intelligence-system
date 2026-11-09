@@ -6,8 +6,7 @@ pandas
 numpy
 pillow
 transformers
-torch --extra-index-url https://download.pytorch.org/whl/cpu
-tensorflow-cpu
+torch
 chromadb
 sentence-transformers
 langchain
