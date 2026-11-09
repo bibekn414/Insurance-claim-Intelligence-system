@@ -8,10 +8,7 @@ The system analyzes both a **damaged vehicle image** and a **claim description**
 ## Live Demo
 
 **Try the application here:**  
-[Launch Real-Time AI Gym Trainer](https://bibek-insurance-claim-intelligence.streamlit.app/)
-
-**GitHub Repository:**  
-[https://github.com/bibekn414/Real-Time-AI-Gym-Trainer](https://github.com/bibekn414/Real-Time-AI-Gym-Trainer)
+[Launch Insurance Claim Intelligence System](https://bibek-insurance-claim-intelligence.streamlit.app/)
 
 ---
 
