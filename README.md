@@ -5,6 +5,15 @@ A multimodal AI-based insurance claim assessment system that combines **Computer
 The system analyzes both a **damaged vehicle image** and a **claim description**, compares predictions from independent AI models, retrieves relevant insurance policy clauses, and generates an evidence-grounded claim assessment report.
 
 ---
+## Live Demo
+
+**Try the application here:**  
+[Launch Real-Time AI Gym Trainer](https://bibek-insurance-claim-intelligence.streamlit.app/)
+
+**GitHub Repository:**  
+[https://github.com/bibekn414/Real-Time-AI-Gym-Trainer](https://github.com/bibekn414/Real-Time-AI-Gym-Trainer)
+
+---
 
 ## 📌 Project Overview
 
